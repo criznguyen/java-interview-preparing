@@ -17,6 +17,7 @@ Engineer (Java + Spring Boot)**.
 -   [Week 7 --- Production & Scaling](week7_production_scaling_plan.md)
     ⬜
 -   [Week 8 --- Final & Soft Skills](week8_final_softskills_plan.md) ⬜
+-   [Week 9 --- Algorithms](algorithms_practice_plan.md) ⬜
 
 ## ✅ Checklist tiến độ
 
@@ -27,7 +28,8 @@ Engineer (Java + Spring Boot)**.
 -   [ ] Tuần 5 --- System Design & Database\
 -   [ ] Tuần 6 --- System Design (Phần 2)\
 -   [ ] Tuần 7 --- Production & Scaling\
--   [ ] Tuần 8 --- Final & Soft Skills
+-   [ ] Tuần 8 --- Final & Soft Skill\
+-   [ ] Tuần 9 --- Algorithms
 
 👉 Tick (✔️) vào tuần bạn đã hoàn thành để theo dõi tiến độ.
 
