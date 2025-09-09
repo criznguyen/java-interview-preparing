@@ -6,7 +6,7 @@ Engineer (Java + Spring Boot)**.
 ## 📖 Index theo tuần
 
 -   [Week 1 --- Java Core Nâng
-    Cao](full_backend_plan_detailed.md#tuần-1) ✅
+    Cao](week1_java_core_plan.md) ✅
 -   [Week 2 --- Java Core (tiếp) + Ôn DSA](week2_java_core_plan.md) ⬜
 -   [Week 3 --- Spring Core](week3_spring_core_plan.md) ⬜
 -   [Week 4 --- Spring Boot & Data](week4_spring_boot_data_plan.md) ⬜
