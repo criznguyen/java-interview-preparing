@@ -34,7 +34,7 @@ Engineer (Java + Spring Boot)**.
 ## 📦 Cấu trúc repo
 
     .
-    ├── full_backend_plan_detailed.md      # Tổng hợp full 8 tuần (day-by-day)
+    ├── week1_java_core_plan.md
     ├── week2_java_core_plan.md
     ├── week3_spring_core_plan.md
     ├── week4_spring_boot_data_plan.md
